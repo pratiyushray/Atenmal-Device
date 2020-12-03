@@ -9,4 +9,5 @@ Atenmal Device - Facial Recognition based Attendance System with Thermal Scannin
 <br>
 ## YOUTUBE VIDEOS OF POC
 <a href="https://youtu.be/YH4mp1IZdds">Atenmal Device</a>
+<br>
 <a href="https://youtu.be/QtNxhvfP32E">Attendance System</a>
