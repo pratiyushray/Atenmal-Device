@@ -16,4 +16,4 @@ Atenmal Device - Facial Recognition based Attendance System with Thermal Scannin
 <a href="https://youtu.be/QtNxhvfP32E">Attendance System by Atenmal Device</a>
 
 
-hello 
+hello guyz
